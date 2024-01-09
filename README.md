@@ -45,3 +45,6 @@ $ git clone https://github.com/Nuru1d33n/Spear-PHPMailer.git
 ```
 
 ## Screenshot
+
+![](/mailer.png)
+![](/opt/Spear-PHPMailer/mailer.png)
