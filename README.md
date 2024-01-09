@@ -38,7 +38,8 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 # Download OR Clone this repository
 $ git clone https://github.com/Nuru1d33n/Spear-PHPMailer.git
 
-# Upload `index.html` & `body.html` To Your C-Panel (Hosting)
+# Upload `index.php` & `body.html` To Your C-Panel (Hosting)
+# The body.html is where the body content of the mail is kept, you can edit it from there and perform your attacks.
 
 # Visit Your Site & You are ready to go!
 ```

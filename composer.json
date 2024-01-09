@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "railsware/mailtrap-php": "*",
+        "symfony/http-client": "*",
+        "nyholm/psr7": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
