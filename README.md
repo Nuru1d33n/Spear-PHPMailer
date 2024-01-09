@@ -5,7 +5,7 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/PHP-7.2.30-green.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/Nuru1d33n/Spear-PHPMailer//blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
   <a href="https://github.com/Nuru1d33n/Spear-PHPMailer/releases">
